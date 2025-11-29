@@ -42,7 +42,7 @@
 
 7.白皮书gk-en.pdf英文版由中文图文翻译，内容可能存在偏差，精准内容请以gk-cn.pdf中文版为准。
 
-8.联系人otcsitecom@gmail.com
+8.唯一联系方式：otcsitecom@gmail.com  
 
 
 White Paper Explanation Document
@@ -94,4 +94,5 @@ All cooperation must be conducted under the premise of legality and compliance.
 
 7. The English version of the white paper gk-en.pdf is translated from the Chinese text and images, and there may be deviations in content. For accurate information, please refer to the Chinese version of gk-cn.pdf.
 
-8. Contact: otcsitecom@gmail.com
+
+8. Unique contact information: otcsitecom@gmail.com
